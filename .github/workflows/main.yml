@@ -70,4 +70,4 @@ jobs:
       run: |
         # Add your deployment steps here
         echo "Deploying to staging environment"
-        sh deploy_to_staging.sh
+        
